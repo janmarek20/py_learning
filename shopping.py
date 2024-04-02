@@ -3,7 +3,7 @@ shopping = {'piekarnia': ['chleb', 'pączek', 'bułki'],
 }
 
 print('Hey')
-print('Hejko')
+print('Hejko!!!')
 
 potential_products = ['masło', 'ser', 'jogurt']
 
