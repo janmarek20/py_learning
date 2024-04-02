@@ -3,6 +3,7 @@ shopping = {'piekarnia': ['chleb', 'pączek', 'bułki'],
 }
 
 print('Hey')
+print('Hejko')
 
 for shop, products in shopping.items():
     products_names = [product.capitalize() for product in products]
