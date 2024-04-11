@@ -1,0 +1,16 @@
+def writing_message(text):
+    print(text)
+
+print(type(writing_message('Hi')))
+
+def day_times():
+    return "morning", "afternoon", "evening", "night"
+
+times = day_times()
+print(times)
+print(type(times))
+
+#Rozpakowanie krotki
+
+first, second, third, fourth = day_times()
+print("Trzeci element to %s" % third)
